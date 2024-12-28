@@ -420,3 +420,4 @@ We welcome contributions to the Finance Tracker project! Here's how you can get 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+![image](https://github.com/user-attachments/assets/81862f67-c49b-4253-9e32-968bb4e1f9dd)
